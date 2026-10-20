@@ -1,0 +1,440 @@
+{
+ "header": {
+  "eyebrow": "RMI202 · RMIT Online psychology courses",
+  "summary": "Six accredited psychology courses for the RMIT Online Graduate Diploma, refreshed in parallel on one schedule with the ABLE approach, built in Canvas and handed over together.",
+  "sources": "Sources: RMI102 project charter (kick-off deck, 3 September 2026) and Statement of Work 3 (signed 3 September 2026). Reference document."
+ },
+ "overview": {
+  "intro": "Curio Group is refreshing six accredited postgraduate psychology courses for RMIT Online. Every course uses the Activity-Based Learning Experience (ABLE) approach, is built in Canvas with LTI integration in RMIT Online visual style, and is tested to WCAG 2.2 AA. Content is developed with an AI-enabled, human-in-the-loop approach, with human judgement at every stage of design, quality assurance and compliance review.",
+  "question": "How do we refresh six psychology courses in parallel, on one schedule, so the Graduate Diploma reads as a single qualification, and hand over to RMIT Online by no later than 15 December 2026?",
+  "note": "Each course is a 10-week accredited postgraduate refresh of around 120 learner hours, with three authentic assessments in three rotatable versions (54 assessment artefacts in total)."
+ },
+ "scope": [
+  {
+   "code": "BESC1514",
+   "course": "Counselling and Professional Practices",
+   "scope": "Postgraduate refresh",
+   "complexity": "Highly complex",
+   "tranche": "All six courses",
+   "modules": 10,
+   "videos": 11,
+   "assessments": 3
+  },
+  {
+   "code": "BESC1515",
+   "course": "Developmental and Social Psychology",
+   "scope": "Postgraduate refresh",
+   "complexity": "Highly complex",
+   "tranche": "All six courses",
+   "modules": 10,
+   "videos": 11,
+   "assessments": 3
+  },
+  {
+   "code": "BESC1516",
+   "course": "Exploring Research in Psychology",
+   "scope": "Postgraduate refresh",
+   "complexity": "Highly complex",
+   "tranche": "All six courses",
+   "modules": 10,
+   "videos": 11,
+   "assessments": 3
+  },
+  {
+   "code": "BESC1517",
+   "course": "Fundamentals of Psychology 1",
+   "scope": "Postgraduate refresh",
+   "complexity": "Highly complex",
+   "tranche": "All six courses",
+   "modules": 10,
+   "videos": 11,
+   "assessments": 3
+  },
+  {
+   "code": "BESC1520",
+   "course": "Mental Health and Psychological Interventions",
+   "scope": "Postgraduate refresh",
+   "complexity": "Highly complex",
+   "tranche": "All six courses",
+   "modules": 10,
+   "videos": 11,
+   "assessments": 3
+  },
+  {
+   "code": "BESC1521",
+   "course": "Personality and Assessment Psychology",
+   "scope": "Postgraduate refresh",
+   "complexity": "Highly complex",
+   "tranche": "All six courses",
+   "modules": 10,
+   "videos": 11,
+   "assessments": 3
+  }
+ ],
+ "steps": [
+  {
+   "label": "Align",
+   "text": "kick-off, technical and brand intake, blueprint workshop, then Gateway 1 blueprint review"
+  },
+  {
+   "label": "Design",
+   "text": "weekly storyboard authoring, SME review, remediation, video and graphics, then Gateway 2 detailed design review"
+  },
+  {
+   "label": "Build",
+   "text": "Canvas build, H5P and interactive elements, client environment QA and remediation, then Gateway 3 final sign-off"
+  },
+  {
+   "label": "Launch",
+   "text": "handover to RMIT Online internal teams, and retrospective"
+  },
+  {
+   "label": "Retain",
+   "text": "two weeks of post go-live hot fix and remediation support per course"
+  }
+ ],
+ "deliverables": [
+  "Six courses built in Canvas LMS, in RMIT Online visual style, tested to WCAG 2.2 AA",
+  "60 modules of ABLE learning content, with three to five weekly learning activities per module",
+  "18 authentic assessments, three per course, each in three rotatable versions with rubrics (54 assessment artefacts)",
+  "66 rich media videos, 11 per course, AI-generated with human review and captioned to WCAG 2.2 AA",
+  "A readings and industry standards currency report and a scope changes document per course",
+  "Full storyboards, a QA report and issue log, and handover documentation with source assets"
+ ],
+ "timing": {
+  "intro": "All six courses are developed in parallel on one schedule. Storyboards arrive one module at a time, three courses reviewed on Wednesday and three on Friday, so no subject matter expert reviews two courses on the same day. These are the contracted stage dates from the signed Statement of Work.",
+  "note": "The charter records amended working dates: storyboard and SME review 1 October to 23 November, Gateway 2 weekly sign-off 5 October to 30 November, Gateway 3 8 to 22 December and handover 23 December. These are to be confirmed against the Statement of Work end date of 15 December 2026.",
+  "criticalPath": "RMIT Online provides consolidated feedback within two business days at every gateway. Any delay to gateway approvals compresses the stages that follow and may require the handover date to be renegotiated."
+ },
+ "milestones": [
+  {
+   "id": "kickoff",
+   "milestone": "Kick-off, Canvas access and source materials",
+   "text": {
+    "t1": "1 September 2026"
+   },
+   "dates": {
+    "t1": "2026-09-01"
+   }
+  },
+  {
+   "id": "g1",
+   "milestone": "Gateway 1: Scope and blueprint confirmation",
+   "text": {
+    "t1": "By 11 September 2026 (end of discovery and blueprint)"
+   },
+   "dates": {
+    "t1": "2026-09-11"
+   }
+  },
+  {
+   "id": "g2",
+   "milestone": "Gateway 2: Detailed design review, weekly sign-off",
+   "text": {
+    "t1": "14 September to 30 October 2026"
+   },
+   "dates": {
+    "t1": "2026-10-30"
+   }
+  },
+  {
+   "id": "g3",
+   "milestone": "Gateway 3: Final sign-off",
+   "text": {
+    "t1": "QA and review closes 27 November 2026"
+   },
+   "dates": {
+    "t1": "2026-11-27"
+   }
+  },
+  {
+   "id": "handover",
+   "milestone": "Handover to RMIT Online internal teams",
+   "text": {
+    "t1": "1 to 15 December 2026"
+   },
+   "dates": {
+    "t1": "2026-12-15"
+   }
+  },
+  {
+   "id": "hotfix",
+   "milestone": "Hot fix and remediation, two weeks per course",
+   "text": {
+    "t1": "From each course's student delivery start date"
+   },
+   "dates": {
+    "t1": null
+   }
+  }
+ ],
+ "stakeholders": [
+  {
+   "label": "RMIT Online operations",
+   "text": "Sarah Kerr, project contact and panel manager, owns gateway sign-off and delivery acceptance"
+  },
+  {
+   "label": "RMIT academic program",
+   "text": "Yang Yap, Program Manager across all six courses, owns program-level approval, with Jorja Fraser"
+  },
+  {
+   "label": "Course coordinators and subject matter experts",
+   "text": "content accuracy, assessment design and storyboard review, one consolidated round per gateway"
+  },
+  {
+   "label": "RMIT Online course design team",
+   "text": "bi-weekly governance check-ins and build environment QA"
+  },
+  {
+   "label": "Graduate Diploma students",
+   "text": "they move through all six courses as one qualification, so consistency across the program is the measure"
+  },
+  {
+   "label": "Curio delivery team",
+   "text": "two design squads covering learning design, build, QA and accessibility"
+  }
+ ],
+ "meetings": [
+  {
+   "label": "Program check-in, all six courses",
+   "text": "Curio Project Director with Yang Yap and Jorja Fraser, 30 minutes, bi-weekly"
+  },
+  {
+   "label": "Storyboard review",
+   "text": "Curio Learning Designer with the SME for each course, per module, Wednesday and Friday"
+  },
+  {
+   "label": "Gateway sign-off",
+   "text": "Curio Learning Designer with the course coordinator or SME, at each gateway"
+  }
+ ],
+ "people": [
+  {
+   "name": "Lizette Bell",
+   "org": "Curio",
+   "role": "Head of Learning Services, Project Director",
+   "blueprint": "",
+   "storyboard": "",
+   "media": "",
+   "build": "",
+   "handover": ""
+  },
+  {
+   "name": "Mel Lizardo",
+   "org": "Curio",
+   "role": "Learning Design Lead",
+   "blueprint": "",
+   "storyboard": "",
+   "media": "",
+   "build": "",
+   "handover": ""
+  },
+  {
+   "name": "Emily Jensen",
+   "org": "Curio",
+   "role": "Learning Designer, squad lead for BESC1517, BESC1520 and BESC1521",
+   "blueprint": "",
+   "storyboard": "",
+   "media": "",
+   "build": "",
+   "handover": ""
+  },
+  {
+   "name": "Jana Rezkova",
+   "org": "Curio",
+   "role": "Learning Designer, squad lead for BESC1514, BESC1515 and BESC1516",
+   "blueprint": "",
+   "storyboard": "",
+   "media": "",
+   "build": "",
+   "handover": ""
+  },
+  {
+   "name": "Joel Carmona",
+   "org": "Curio",
+   "role": "eLearning Developer, production lead",
+   "blueprint": "",
+   "storyboard": "",
+   "media": "",
+   "build": "",
+   "handover": ""
+  },
+  {
+   "name": "Gabby Parish",
+   "org": "Curio",
+   "role": "Graphic Designer, all six courses",
+   "blueprint": "",
+   "storyboard": "",
+   "media": "",
+   "build": "",
+   "handover": ""
+  },
+  {
+   "name": "Sarah Kerr",
+   "org": "RMIT Online",
+   "role": "Project contact and panel manager",
+   "blueprint": "",
+   "storyboard": "",
+   "media": "",
+   "build": "",
+   "handover": ""
+  },
+  {
+   "name": "Yang Yap",
+   "org": "RMIT Online",
+   "role": "Program Manager, all six courses",
+   "blueprint": "",
+   "storyboard": "",
+   "media": "",
+   "build": "",
+   "handover": ""
+  },
+  {
+   "name": "Jorja Fraser",
+   "org": "RMIT",
+   "role": "Course Coordinator, BESC1516, BESC1517 and BESC1520",
+   "blueprint": "",
+   "storyboard": "",
+   "media": "",
+   "build": "",
+   "handover": ""
+  },
+  {
+   "name": "Daniel Zarate",
+   "org": "RMIT",
+   "role": "Course Coordinator, BESC1514",
+   "blueprint": "",
+   "storyboard": "",
+   "media": "",
+   "build": "",
+   "handover": ""
+  },
+  {
+   "name": "Loretta Vocale",
+   "org": "RMIT",
+   "role": "Course Coordinator, BESC1515",
+   "blueprint": "",
+   "storyboard": "",
+   "media": "",
+   "build": "",
+   "handover": ""
+  },
+  {
+   "name": "Chris Powell",
+   "org": "RMIT",
+   "role": "Course Coordinator, BESC1521",
+   "blueprint": "",
+   "storyboard": "",
+   "media": "",
+   "build": "",
+   "handover": ""
+  },
+  {
+   "name": "Rachael Grant",
+   "org": "RMIT",
+   "role": "Subject matter expert, BESC1514 and BESC1521",
+   "blueprint": "",
+   "storyboard": "",
+   "media": "",
+   "build": "",
+   "handover": ""
+  },
+  {
+   "name": "Renata Porzig-Drummond",
+   "org": "RMIT",
+   "role": "Subject matter expert, BESC1515 and BESC1520",
+   "blueprint": "",
+   "storyboard": "",
+   "media": "",
+   "build": "",
+   "handover": ""
+  },
+  {
+   "name": "Brian Hunt",
+   "org": "RMIT",
+   "role": "Subject matter expert, BESC1517 (tentative for BESC1516)",
+   "blueprint": "",
+   "storyboard": "",
+   "media": "",
+   "build": "",
+   "handover": ""
+  }
+ ],
+ "success": [
+  "All six courses hand over by 15 December 2026 with no renegotiated dates",
+  "Every course clears Gateway 3 with WCAG 2.2 AA verified and the Canvas build tested in the RMIT Online environment",
+  "One consolidated feedback round and one remediation round per gateway",
+  "60 modules, 54 assessment artefacts and 66 captioned videos delivered",
+  "The six courses read as one qualification: one blueprint pattern, one asset library and one Canvas template set across the Graduate Diploma",
+  "Assessment versions are demonstrably equivalent, evidenced the way agreed at Gateway 1",
+  "Readings and industry standards are current at go-live, and the currency report is accepted for every course",
+  "RMIT Online internal teams can run and maintain all six courses after handover, and the hot fix window closes with no material defects outstanding"
+ ],
+ "boundaries": [
+  "Work sits within the existing Course Learning Outcomes. Anything requiring re-accreditation is out of scope",
+  "RMIT Online visual style using existing templates and asset libraries. No new brand or template development",
+  "Video is AI-generated with human review. Traditional production is quoted separately",
+  "Instrument licensing, clinical currency beyond the editions current at build, and Indigenous consultation sit outside the agreed scope"
+ ],
+ "dependencies": [
+  "Canvas access and LTI credentials at commencement, with the LTI tools named at Gateway 1",
+  "Source courses, course maps, Course Guides, CES feedback and the refresh scope documents",
+  "Roughly five hours of SME time a week per course through storyboarding, and consolidated feedback within two business days",
+  "Existing graphics and visual assets released for reuse, and student delivery start dates advised per course"
+ ],
+ "risks": [
+  "BESC1516 has no subject matter expert contracted. This is the highest risk in the portfolio",
+  "Rachael Grant and Renata Porzig-Drummond each carry two live courses, close to a half-time commitment through storyboarding",
+  "Six courses in parallel concentrate the review load. Feedback beyond two business days moves the handover date",
+  "Psychometric instrument licensing on BESC1521, and DSM and ICD currency on BESC1520, are unresolved"
+ ],
+ "decisions": [
+  "Confirm the BESC1516 subject matter expert, Brian Hunt or an alternate",
+  "Confirm SME capacity where Rachael Grant and Renata Porzig-Drummond each hold two courses",
+  "Name sign-off authorities per course, and agree the Wednesday and Friday review split"
+ ],
+ "actions": [
+  {
+   "action": "Confirm the BESC1516 subject matter expert and brief them",
+   "owner": "RMIT Online",
+   "by": "7 September"
+  },
+  {
+   "action": "Name sign-off authorities per course",
+   "owner": "RMIT Online",
+   "by": "7 September"
+  },
+  {
+   "action": "Complete technical and brand intake, and stand up the project board",
+   "owner": "Curio",
+   "by": "8 September"
+  },
+  {
+   "action": "Confirm SME availability",
+   "owner": "Curio",
+   "by": "8 September"
+  },
+  {
+   "action": "Blueprinting sessions for all six courses",
+   "owner": "Curio and RMIT Online",
+   "by": "8 to 16 September"
+  },
+  {
+   "action": "Provide source materials for each course",
+   "owner": "RMIT Online",
+   "by": "9 September"
+  },
+  {
+   "action": "Provide Canvas access and templates",
+   "owner": "RMIT Online",
+   "by": "11 September"
+  }
+ ],
+ "tbc": [
+  "Gateway 3 and handover dates: the charter's amended dates (8 to 22 December and 23 December) fall after the Statement of Work end date of 15 December 2026",
+  "Subject matter expert for BESC1516",
+  "Squad allocation and the Wednesday and Friday review split, confirmed at Gateway 1",
+  "Student delivery start dates for each course, which set the hot fix windows",
+  "Roles and responsibilities (RACI) for each person"
+ ]
+}

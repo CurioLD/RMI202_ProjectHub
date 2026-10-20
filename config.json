@@ -1,0 +1,222 @@
+{
+ "project": "RMI102",
+ "client": "RMIT Online",
+ "title": "Psychology courses for RMIT Online",
+ "eyebrow": "Client project timeline",
+ "jiraSite": "https://curiogroup.atlassian.net",
+ "linkJiraKeys": false,
+ "jiraFields": {
+  "start": "customfield_10706",
+  "epicLink": "customfield_10015"
+ },
+ "excludedEpics": [],
+ "hideRows": [
+  "^weekly meeting",
+  "^onboarding",
+  "gateway \\d coordination",
+  "oversight and gateway quality reviews",
+  "internal retrospective",
+  "blueprint workshop preparation",
+  "^blueprint preparation$",
+  "^ld build qa",
+  "\\(associate ld\\)"
+ ],
+ "hideNamesInTitles": [
+  "Mel",
+  "Lizette",
+  "Emily",
+  "Jana",
+  "Joel",
+  "Gabby"
+ ],
+ "tranches": [
+  {
+   "id": "t1",
+   "label": "All six courses (BESC1514, BESC1515, BESC1516, BESC1517, BESC1520, BESC1521)",
+   "short": "All six courses"
+  }
+ ],
+ "phases": [
+  {
+   "name": "Blueprint",
+   "epics": [
+    "RMI102-2"
+   ],
+   "note": "Kick-off, intake and blueprints for all six courses"
+  },
+  {
+   "name": "Storyboard",
+   "epics": [
+    "RMI102-3",
+    "RMI102-151",
+    "RMI102-153",
+    "RMI102-155",
+    "RMI102-157",
+    "RMI102-159"
+   ],
+   "note": "Weekly storyboards, media, SME review and design sign-off"
+  },
+  {
+   "name": "Build",
+   "epics": [
+    "RMI102-4",
+    "RMI102-152",
+    "RMI102-154",
+    "RMI102-156",
+    "RMI102-158",
+    "RMI102-160"
+   ],
+   "note": "Canvas build, client environment QA and remediation"
+  }
+ ],
+ "groups": [
+  {
+   "id": "00",
+   "name": "Governance",
+   "epics": [
+    "RMI102-1"
+   ]
+  },
+  {
+   "id": "01",
+   "name": "Align",
+   "epics": [
+    "RMI102-2"
+   ]
+  },
+  {
+   "id": "D1",
+   "name": "BESC1514 design",
+   "course": "BESC1514",
+   "kind": "design",
+   "tranche": "t1",
+   "epics": [
+    "RMI102-3"
+   ]
+  },
+  {
+   "id": "D2",
+   "name": "BESC1515 design",
+   "course": "BESC1515",
+   "kind": "design",
+   "tranche": "t1",
+   "epics": [
+    "RMI102-151"
+   ]
+  },
+  {
+   "id": "D3",
+   "name": "BESC1516 design",
+   "course": "BESC1516",
+   "kind": "design",
+   "tranche": "t1",
+   "epics": [
+    "RMI102-153"
+   ]
+  },
+  {
+   "id": "D4",
+   "name": "BESC1517 design",
+   "course": "BESC1517",
+   "kind": "design",
+   "tranche": "t1",
+   "epics": [
+    "RMI102-155"
+   ]
+  },
+  {
+   "id": "D5",
+   "name": "BESC1520 design",
+   "course": "BESC1520",
+   "kind": "design",
+   "tranche": "t1",
+   "epics": [
+    "RMI102-157"
+   ]
+  },
+  {
+   "id": "D6",
+   "name": "BESC1521 design",
+   "course": "BESC1521",
+   "kind": "design",
+   "tranche": "t1",
+   "epics": [
+    "RMI102-159"
+   ]
+  },
+  {
+   "id": "B1",
+   "name": "BESC1514 build",
+   "course": "BESC1514",
+   "kind": "build",
+   "tranche": "t1",
+   "epics": [
+    "RMI102-4"
+   ]
+  },
+  {
+   "id": "B2",
+   "name": "BESC1515 build",
+   "course": "BESC1515",
+   "kind": "build",
+   "tranche": "t1",
+   "epics": [
+    "RMI102-152"
+   ]
+  },
+  {
+   "id": "B3",
+   "name": "BESC1516 build",
+   "course": "BESC1516",
+   "kind": "build",
+   "tranche": "t1",
+   "epics": [
+    "RMI102-154"
+   ]
+  },
+  {
+   "id": "B4",
+   "name": "BESC1517 build",
+   "course": "BESC1517",
+   "kind": "build",
+   "tranche": "t1",
+   "epics": [
+    "RMI102-156"
+   ]
+  },
+  {
+   "id": "B5",
+   "name": "BESC1520 build",
+   "course": "BESC1520",
+   "kind": "build",
+   "tranche": "t1",
+   "epics": [
+    "RMI102-158"
+   ]
+  },
+  {
+   "id": "B6",
+   "name": "BESC1521 build",
+   "course": "BESC1521",
+   "kind": "build",
+   "tranche": "t1",
+   "epics": [
+    "RMI102-160"
+   ]
+  },
+  {
+   "id": "04",
+   "name": "Launch",
+   "epics": [
+    "RMI102-5"
+   ]
+  },
+  {
+   "id": "05",
+   "name": "Retain",
+   "epics": [
+    "RMI102-6"
+   ]
+  }
+ ]
+}

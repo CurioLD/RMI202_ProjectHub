@@ -1,0 +1,17 @@
+[build]
+  publish = "."
+  command = ""
+
+# Unlisted link: keep it out of search engines.
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Robots-Tag = "noindex, nofollow"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "no-referrer"
+
+# Always load the latest data.
+[[headers]]
+  for = "/*.json"
+  [headers.values]
+    Cache-Control = "no-cache"
