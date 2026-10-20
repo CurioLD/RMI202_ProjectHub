@@ -1,6 +1,6 @@
 {
  "project": "RMI102",
- "synced_at": "2026-10-20T06:20:04.833Z",
+ "synced_at": "2026-10-20T06:40:48.021Z",
  "issues": [
   {
    "key": "RMI102-7",
@@ -3437,7 +3437,7 @@
   {
    "key": "RMI102-555",
    "epic": "RMI102-157",
-   "status": "To do",
+   "status": "In progress",
    "start": "2026-10-05",
    "due": "2026-10-16",
    "summary": "Week 2 - Storyboard - SME Review (2.6)"
@@ -3477,7 +3477,7 @@
   {
    "key": "RMI102-562",
    "epic": "RMI102-157",
-   "status": "To do",
+   "status": "In progress",
    "start": "2026-10-07",
    "due": "2026-10-08",
    "summary": "Week 3 - Storyboard - SME Review (2.6)"
@@ -3517,7 +3517,7 @@
   {
    "key": "RMI102-569",
    "epic": "RMI102-157",
-   "status": "To do",
+   "status": "In progress",
    "start": "2026-10-12",
    "due": "2026-10-13",
    "summary": "Week 4 - Storyboard - SME Review (2.6)"
@@ -4237,7 +4237,7 @@
   {
    "key": "RMI102-678",
    "epic": "RMI102-159",
-   "status": "To do",
+   "status": "In progress",
    "start": "2026-10-05",
    "due": "2026-10-26",
    "summary": "Week 2 - Graphic design assets (2.4a)"
