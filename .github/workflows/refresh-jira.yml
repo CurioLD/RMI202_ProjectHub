@@ -2,9 +2,9 @@ name: Refresh Jira data
 
 on:
   schedule:
-    # 7:00am Sydney (AEDT) Monday to Friday = 20:00 UTC Sunday to Thursday.
-    # When daylight saving ends in April, change 20 to 21.
-    - cron: '0 20 * * 0-4'
+    # 7:00am Melbourne time, Monday to Friday.
+    - cron: '0 7 * * 1-5'
+      timezone: Australia/Melbourne
   workflow_dispatch:
 
 permissions:
