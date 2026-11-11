@@ -1,6 +1,6 @@
 {
  "project": "RMI102",
- "synced_at": "2026-11-10T02:44:06.915Z",
+ "synced_at": "2026-11-11T00:40:18.540Z",
  "issues": [
   {
    "key": "RMI102-7",
@@ -3701,7 +3701,7 @@
   {
    "key": "RMI102-601",
    "epic": "RMI102-157",
-   "status": "In progress",
+   "status": "Done",
    "start": "2026-10-30",
    "due": "2026-10-30",
    "summary": "Week 9 - Storyboard Remediation (2.3, 2.7, 2.8)"
@@ -3741,7 +3741,7 @@
   {
    "key": "RMI102-608",
    "epic": "RMI102-157",
-   "status": "In progress",
+   "status": "Done",
    "start": "2026-11-04",
    "due": "2026-11-06",
    "summary": "Week 10 - Storyboard Remediation (2.3, 2.7, 2.8)"
@@ -3853,7 +3853,7 @@
   {
    "key": "RMI102-625",
    "epic": "RMI102-158",
-   "status": "To do",
+   "status": "Done",
    "start": "2026-10-12",
    "due": "2026-10-22",
    "summary": "Week 1 - Build Remediation (3.6)"
@@ -3877,7 +3877,7 @@
   {
    "key": "RMI102-628",
    "epic": "RMI102-158",
-   "status": "To do",
+   "status": "Done",
    "start": "2026-10-19",
    "due": "2026-10-28",
    "summary": "Week 2 - Build Remediation (3.6)"
