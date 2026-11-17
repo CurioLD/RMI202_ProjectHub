@@ -1,6 +1,6 @@
 {
  "project": "RMI102",
- "synced_at": "2026-11-15T23:58:05.581Z",
+ "synced_at": "2026-11-17T02:55:20.425Z",
  "issues": [
   {
    "key": "RMI102-7",
@@ -525,7 +525,7 @@
   {
    "key": "RMI102-98",
    "epic": "RMI102-3",
-   "status": "In progress",
+   "status": "Done",
    "start": "2026-11-04",
    "due": "2026-11-12",
    "summary": "Assessment - authoring (2.2)"
@@ -549,7 +549,7 @@
   {
    "key": "RMI102-101",
    "epic": "RMI102-3",
-   "status": "To do",
+   "status": "Done",
    "start": "2026-11-11",
    "due": "2026-11-11",
    "summary": "Assessment -  Remediation (2.3, 2.7, 2.8)"
@@ -557,7 +557,7 @@
   {
    "key": "RMI102-102",
    "epic": "RMI102-3",
-   "status": "To do",
+   "status": "Done",
    "start": "2026-11-12",
    "due": "2026-11-12",
    "summary": "Assessment - Design Milestone - Client Sign-Off (Gateway 2) (2.11)"
@@ -919,7 +919,7 @@
    "epic": "RMI102-151",
    "status": "To do",
    "start": "2026-11-06",
-   "due": "2026-11-06",
+   "due": "2026-11-27",
    "summary": "Week 0 - Storyboard Remediation (2.3, 2.7, 2.8)"
   },
   {
@@ -927,7 +927,7 @@
    "epic": "RMI102-151",
    "status": "Done",
    "start": "2026-11-04",
-   "due": "2026-11-05",
+   "due": "2026-11-20",
    "summary": "Week 0 - Graphic design assets (2.4a)"
   },
   {
@@ -1349,7 +1349,7 @@
   {
    "key": "RMI102-238",
    "epic": "RMI102-151",
-   "status": "In progress",
+   "status": "Done",
    "start": "2026-11-05",
    "due": "2026-11-20",
    "summary": "Assessment - authoring (2.2)"
@@ -1365,7 +1365,7 @@
   {
    "key": "RMI102-240",
    "epic": "RMI102-151",
-   "status": "To do",
+   "status": "Done",
    "start": "2026-11-11",
    "due": "2026-11-20",
    "summary": "Assessment -  Remediation (2.3, 2.7, 2.8)"
@@ -1373,7 +1373,7 @@
   {
    "key": "RMI102-241",
    "epic": "RMI102-151",
-   "status": "In progress",
+   "status": "Done",
    "start": "2026-11-09",
    "due": "2026-11-20",
    "summary": "Assessment - SME Review (2.6)"
@@ -1381,7 +1381,7 @@
   {
    "key": "RMI102-242",
    "epic": "RMI102-151",
-   "status": "To do",
+   "status": "In progress",
    "start": "2026-11-12",
    "due": "2026-11-20",
    "summary": "Assessment - Design Milestone - Client Sign-Off (Gateway 2) (2.11)"
@@ -1525,7 +1525,7 @@
   {
    "key": "RMI102-262",
    "epic": "RMI102-152",
-   "status": "In progress",
+   "status": "Done",
    "start": "2026-10-30",
    "due": "2026-11-03",
    "summary": "Week 5 - Build Remediation (3.6)"
@@ -1573,7 +1573,7 @@
   {
    "key": "RMI102-268",
    "epic": "RMI102-152",
-   "status": "To do",
+   "status": "Done",
    "start": "2026-11-09",
    "due": "2026-11-09",
    "summary": "Week 7 - Build Remediation (3.6)"
@@ -1973,7 +1973,7 @@
   {
    "key": "RMI102-331",
    "epic": "RMI102-153",
-   "status": "In progress",
+   "status": "Done",
    "start": "2026-10-19",
    "due": "2026-10-28",
    "summary": "Week 6 - Graphic design assets (2.4a)"
@@ -1989,7 +1989,7 @@
   {
    "key": "RMI102-334",
    "epic": "RMI102-153",
-   "status": "In progress",
+   "status": "Done",
    "start": "2026-10-22",
    "due": "2026-10-27",
    "summary": "Week 6 - Design Milestone - Client Sign-Off (Gateway 2) (2.11)"
@@ -2005,15 +2005,15 @@
   {
    "key": "RMI102-337",
    "epic": "RMI102-153",
-   "status": "To do",
+   "status": "Done",
    "start": "2026-10-23",
-   "due": "2026-10-27",
+   "due": "2026-11-20",
    "summary": "Week 7 - Storyboard Remediation (2.3, 2.7, 2.8)"
   },
   {
    "key": "RMI102-338",
    "epic": "RMI102-153",
-   "status": "To do",
+   "status": "Done",
    "start": "2026-10-21",
    "due": null,
    "summary": "Week 7 - Graphic design assets (2.4a)"
@@ -2021,7 +2021,7 @@
   {
    "key": "RMI102-340",
    "epic": "RMI102-153",
-   "status": "In progress",
+   "status": "Done",
    "start": "2026-10-21",
    "due": "2026-10-26",
    "summary": "Week 7 - Storyboard - SME Review (2.6)"
@@ -2029,9 +2029,9 @@
   {
    "key": "RMI102-341",
    "epic": "RMI102-153",
-   "status": "To do",
+   "status": "Done",
    "start": "2026-10-26",
-   "due": "2026-10-28",
+   "due": "2026-11-20",
    "summary": "Week 7 - Design Milestone - Client Sign-Off (Gateway 2) (2.11)"
   },
   {
@@ -2047,7 +2047,7 @@
    "epic": "RMI102-153",
    "status": "To do",
    "start": "2026-10-28",
-   "due": "2026-10-28",
+   "due": "2026-11-23",
    "summary": "Week 8 - Storyboard Remediation (2.3, 2.7, 2.8)"
   },
   {
@@ -2063,7 +2063,7 @@
    "epic": "RMI102-153",
    "status": "In progress",
    "start": "2026-10-26",
-   "due": "2026-10-27",
+   "due": "2026-11-23",
    "summary": "Week 8 - Storyboard - SME Review (2.6)"
   },
   {
@@ -2071,7 +2071,7 @@
    "epic": "RMI102-153",
    "status": "To do",
    "start": "2026-10-29",
-   "due": "2026-10-29",
+   "due": "2026-11-23",
    "summary": "Week 8 - Design Milestone - Client Sign-Off (Gateway 2) (2.11)"
   },
   {
@@ -2087,7 +2087,7 @@
    "epic": "RMI102-153",
    "status": "To do",
    "start": "2026-10-30",
-   "due": "2026-10-30",
+   "due": "2026-11-30",
    "summary": "Week 9 - Storyboard Remediation (2.3, 2.7, 2.8)"
   },
   {
@@ -2103,7 +2103,7 @@
    "epic": "RMI102-153",
    "status": "In progress",
    "start": "2026-10-28",
-   "due": "2026-10-29",
+   "due": "2026-11-23",
    "summary": "Week 9 - Storyboard - SME Review (2.6)"
   },
   {
@@ -2111,7 +2111,7 @@
    "epic": "RMI102-153",
    "status": "To do",
    "start": "2026-11-04",
-   "due": "2026-11-02",
+   "due": "2026-11-23",
    "summary": "Week 9 - Design Milestone - Client Sign-Off (Gateway 2) (2.11)"
   },
   {
@@ -2127,7 +2127,7 @@
    "epic": "RMI102-153",
    "status": "To do",
    "start": "2026-11-04",
-   "due": "2026-11-04",
+   "due": "2026-11-23",
    "summary": "Week 10 - Storyboard Remediation (2.3, 2.7, 2.8)"
   },
   {
@@ -2143,7 +2143,7 @@
    "epic": "RMI102-153",
    "status": "In progress",
    "start": "2026-11-02",
-   "due": "2026-11-03",
+   "due": "2026-11-23",
    "summary": "Week 10 - Storyboard - SME Review (2.6)"
   },
   {
@@ -2151,7 +2151,7 @@
    "epic": "RMI102-153",
    "status": "To do",
    "start": "2026-11-05",
-   "due": "2026-11-05",
+   "due": "2026-11-23",
    "summary": "Week 10 - Design Milestone - Client Sign-Off (Gateway 2) (2.11)"
   },
   {
@@ -2175,7 +2175,7 @@
    "epic": "RMI102-153",
    "status": "To do",
    "start": "2026-11-11",
-   "due": "2026-11-20",
+   "due": "2026-11-23",
    "summary": "Assessment -  Remediation (2.3, 2.7, 2.8)"
   },
   {
@@ -2183,7 +2183,7 @@
    "epic": "RMI102-153",
    "status": "In progress",
    "start": "2026-11-09",
-   "due": "2026-11-10",
+   "due": "2026-11-20",
    "summary": "Assessment - SME Review (2.6)"
   },
   {
@@ -2191,7 +2191,7 @@
    "epic": "RMI102-153",
    "status": "To do",
    "start": "2026-11-12",
-   "due": "2026-11-20",
+   "due": "2026-11-25",
    "summary": "Assessment - Design Milestone - Client Sign-Off (Gateway 2) (2.11)"
   },
   {
@@ -2981,7 +2981,7 @@
   {
    "key": "RMI102-490",
    "epic": "RMI102-155",
-   "status": "In progress",
+   "status": "Done",
    "start": "2026-11-11",
    "due": "2026-11-20",
    "summary": "Assessment -  Remediation (2.3, 2.7, 2.8)"
@@ -2997,7 +2997,7 @@
   {
    "key": "RMI102-492",
    "epic": "RMI102-155",
-   "status": "To do",
+   "status": "Done",
    "start": "2026-11-12",
    "due": "2026-11-20",
    "summary": "Assessment - Design Milestone - Client Sign-Off (Gateway 2) (2.11)"
@@ -3343,7 +3343,7 @@
    "epic": "RMI102-157",
    "status": "To do",
    "start": "2026-11-06",
-   "due": "2026-11-06",
+   "due": "2026-11-27",
    "summary": "Week 0 - Storyboard Remediation (2.3, 2.7, 2.8)"
   },
   {
@@ -3773,7 +3773,7 @@
   {
    "key": "RMI102-613",
    "epic": "RMI102-157",
-   "status": "In progress",
+   "status": "Done",
    "start": "2026-11-05",
    "due": "2026-11-20",
    "summary": "Assessment - authoring (2.2)"
@@ -3789,7 +3789,7 @@
   {
    "key": "RMI102-615",
    "epic": "RMI102-157",
-   "status": "To do",
+   "status": "Done",
    "start": "2026-11-11",
    "due": "2026-11-20",
    "summary": "Assessment -  Remediation (2.3, 2.7, 2.8)"
@@ -3797,7 +3797,7 @@
   {
    "key": "RMI102-616",
    "epic": "RMI102-157",
-   "status": "In progress",
+   "status": "Done",
    "start": "2026-11-09",
    "due": "2026-11-10",
    "summary": "Assessment - SME Review (2.6)"
@@ -3805,7 +3805,7 @@
   {
    "key": "RMI102-617",
    "epic": "RMI102-157",
-   "status": "To do",
+   "status": "In progress",
    "start": "2026-11-12",
    "due": "2026-11-20",
    "summary": "Assessment - Design Milestone - Client Sign-Off (Gateway 2) (2.11)"
@@ -4597,7 +4597,7 @@
   {
    "key": "RMI102-740",
    "epic": "RMI102-159",
-   "status": "To do",
+   "status": "Done",
    "start": "2026-11-11",
    "due": "2026-11-20",
    "summary": "Assessment -  Remediation (2.3, 2.7, 2.8)"
@@ -4613,7 +4613,7 @@
   {
    "key": "RMI102-742",
    "epic": "RMI102-159",
-   "status": "To do",
+   "status": "Done",
    "start": "2026-11-12",
    "due": "2026-11-25",
    "summary": "Assessment - Design Milestone - Client Sign-Off (Gateway 2) (2.11)"
