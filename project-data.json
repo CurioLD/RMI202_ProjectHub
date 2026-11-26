@@ -1,6 +1,6 @@
 {
  "project": "RMI102",
- "synced_at": "2026-11-25T03:32:43.576Z",
+ "synced_at": "2026-11-26T02:51:08.496Z",
  "issues": [
   {
    "key": "RMI102-7",
@@ -925,7 +925,7 @@
   {
    "key": "RMI102-164",
    "epic": "RMI102-151",
-   "status": "In progress",
+   "status": "Done",
    "start": "2026-11-04",
    "due": "2026-11-23",
    "summary": "Week 0 - Graphic design assets (2.4a)"
