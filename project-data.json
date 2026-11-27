@@ -1,6 +1,6 @@
 {
  "project": "RMI102",
- "synced_at": "2026-11-26T02:51:08.496Z",
+ "synced_at": "2026-11-27T02:51:05.100Z",
  "issues": [
   {
    "key": "RMI102-7",
@@ -493,7 +493,7 @@
   {
    "key": "RMI102-93",
    "epic": "RMI102-3",
-   "status": "To do",
+   "status": "Done",
    "start": "2026-11-04",
    "due": "2026-11-05",
    "summary": "Week 0 - Storyboard - SME Review (2.6)"
@@ -501,7 +501,7 @@
   {
    "key": "RMI102-94",
    "epic": "RMI102-3",
-   "status": "In progress",
+   "status": "Done",
    "start": "2026-11-06",
    "due": "2026-11-27",
    "summary": "Week 0 - Storyboard Remediation (2.3, 2.7, 2.8)"
@@ -517,7 +517,7 @@
   {
    "key": "RMI102-97",
    "epic": "RMI102-3",
-   "status": "To do",
+   "status": "Done",
    "start": "2026-11-09",
    "due": "2026-12-04",
    "summary": "Week 0 - Design Milestone - Client Sign-Off (Gateway 2) (2.11)"
@@ -765,7 +765,7 @@
   {
    "key": "RMI102-130",
    "epic": "RMI102-4",
-   "status": "To do",
+   "status": "Done",
    "start": "2026-11-12",
    "due": "2026-11-12",
    "summary": "Week 8 - Build Remediation (3.6)"
@@ -789,7 +789,7 @@
   {
    "key": "RMI102-133",
    "epic": "RMI102-4",
-   "status": "To do",
+   "status": "Done",
    "start": "2026-11-17",
    "due": "2026-11-17",
    "summary": "Week 9 - Build Remediation (3.6)"
@@ -813,7 +813,7 @@
   {
    "key": "RMI102-136",
    "epic": "RMI102-4",
-   "status": "To do",
+   "status": "Done",
    "start": "2026-11-20",
    "due": "2026-11-20",
    "summary": "Week 10 - Build Remediation (3.6)"
@@ -845,7 +845,7 @@
   {
    "key": "RMI102-140",
    "epic": "RMI102-4",
-   "status": "To do",
+   "status": "Done",
    "start": "2026-11-23",
    "due": "2026-11-25",
    "summary": "Assessment - Technical Build (3.2a)"
@@ -909,7 +909,7 @@
   {
    "key": "RMI102-161",
    "epic": "RMI102-151",
-   "status": "In progress",
+   "status": "Done",
    "start": "2026-11-02",
    "due": "2026-12-04",
    "summary": "Week 0 - Storyboard authoring (2.2)"
@@ -917,7 +917,7 @@
   {
    "key": "RMI102-163",
    "epic": "RMI102-151",
-   "status": "To do",
+   "status": "Done",
    "start": "2026-11-06",
    "due": "2026-11-27",
    "summary": "Week 0 - Storyboard Remediation (2.3, 2.7, 2.8)"
@@ -933,7 +933,7 @@
   {
    "key": "RMI102-166",
    "epic": "RMI102-151",
-   "status": "To do",
+   "status": "In progress",
    "start": "2026-11-04",
    "due": "2026-12-04",
    "summary": "Week 0 - Storyboard - SME Review (2.6)"
@@ -1549,7 +1549,7 @@
   {
    "key": "RMI102-265",
    "epic": "RMI102-152",
-   "status": "To do",
+   "status": "Done",
    "start": "2026-11-04",
    "due": "2026-11-04",
    "summary": "Week 6 - Build Remediation (3.6)"
@@ -1597,7 +1597,7 @@
   {
    "key": "RMI102-271",
    "epic": "RMI102-152",
-   "status": "To do",
+   "status": "Done",
    "start": "2026-11-12",
    "due": "2026-11-12",
    "summary": "Week 8 - Build Remediation (3.6)"
@@ -1605,7 +1605,7 @@
   {
    "key": "RMI102-272",
    "epic": "RMI102-152",
-   "status": "To do",
+   "status": "Done",
    "start": "2026-11-10",
    "due": "2026-11-12",
    "summary": "Week 9 - Technical Build (3.2a)"
@@ -1629,7 +1629,7 @@
   {
    "key": "RMI102-275",
    "epic": "RMI102-152",
-   "status": "To do",
+   "status": "Done",
    "start": "2026-11-13",
    "due": "2026-11-17",
    "summary": "Week 10 - Technical Build (3.2a)"
@@ -1653,7 +1653,7 @@
   {
    "key": "RMI102-278",
    "epic": "RMI102-152",
-   "status": "To do",
+   "status": "Done",
    "start": "2026-11-23",
    "due": "2026-11-25",
    "summary": "Assessment - Technical Build (3.2a)"
@@ -2333,7 +2333,7 @@
   {
    "key": "RMI102-387",
    "epic": "RMI102-154",
-   "status": "To do",
+   "status": "Done",
    "start": "2026-10-30",
    "due": "2026-10-30",
    "summary": "Week 5 - Build Remediation (3.6)"
@@ -2341,7 +2341,7 @@
   {
    "key": "RMI102-388",
    "epic": "RMI102-154",
-   "status": "To do",
+   "status": "In progress",
    "start": "2026-10-28",
    "due": "2026-10-30",
    "summary": "Week 6 - Technical Build (3.2a)"
@@ -3197,7 +3197,7 @@
   {
    "key": "RMI102-519",
    "epic": "RMI102-156",
-   "status": "To do",
+   "status": "In progress",
    "start": "2026-11-05",
    "due": "2026-11-09",
    "summary": "Week 8 - Technical Build (3.2a)"
@@ -3221,7 +3221,7 @@
   {
    "key": "RMI102-522",
    "epic": "RMI102-156",
-   "status": "To do",
+   "status": "Done",
    "start": "2026-11-10",
    "due": "2026-11-12",
    "summary": "Week 9 - Technical Build (3.2a)"
@@ -3333,7 +3333,7 @@
   {
    "key": "RMI102-536",
    "epic": "RMI102-157",
-   "status": "In progress",
+   "status": "Done",
    "start": "2026-11-02",
    "due": "2026-12-04",
    "summary": "Week 0 - Storyboard authoring (2.2)"
@@ -3357,7 +3357,7 @@
   {
    "key": "RMI102-541",
    "epic": "RMI102-157",
-   "status": "To do",
+   "status": "In progress",
    "start": "2026-11-04",
    "due": "2026-12-04",
    "summary": "Week 0 - Storyboard - SME Review (2.6)"
@@ -4005,7 +4005,7 @@
   {
    "key": "RMI102-644",
    "epic": "RMI102-158",
-   "status": "To do",
+   "status": "Done",
    "start": "2026-11-05",
    "due": "2026-11-09",
    "summary": "Week 8 - Technical Build (3.2a)"
@@ -4029,7 +4029,7 @@
   {
    "key": "RMI102-647",
    "epic": "RMI102-158",
-   "status": "To do",
+   "status": "Done",
    "start": "2026-11-10",
    "due": "2026-11-12",
    "summary": "Week 9 - Technical Build (3.2a)"
@@ -4053,7 +4053,7 @@
   {
    "key": "RMI102-650",
    "epic": "RMI102-158",
-   "status": "To do",
+   "status": "Done",
    "start": "2026-11-13",
    "due": "2026-11-17",
    "summary": "Week 10 - Technical Build (3.2a)"
@@ -4781,7 +4781,7 @@
   {
    "key": "RMI102-765",
    "epic": "RMI102-160",
-   "status": "To do",
+   "status": "Done",
    "start": "2026-11-04",
    "due": "2026-11-17",
    "summary": "Week 6 - Build Remediation (3.6)"
@@ -4805,7 +4805,7 @@
   {
    "key": "RMI102-768",
    "epic": "RMI102-160",
-   "status": "To do",
+   "status": "Done",
    "start": "2026-11-09",
    "due": "2026-11-22",
    "summary": "Week 7 - Build Remediation (3.6)"
@@ -4861,7 +4861,7 @@
   {
    "key": "RMI102-775",
    "epic": "RMI102-160",
-   "status": "In progress",
+   "status": "Done",
    "start": "2026-11-13",
    "due": "2026-11-30",
    "summary": "Week 10 - Technical Build (3.2a)"
